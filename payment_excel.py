@@ -1,6 +1,5 @@
 from openpyxl import load_workbook
 from operator import itemgetter
-# from openpyxl import Workbook
 
 path = "./한동준_국민체크8906.xlsx"
 writePath = "./OOO_법인카드지출내역서.xlsx"
